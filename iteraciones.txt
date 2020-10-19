@@ -12,7 +12,6 @@ flutter new project
 se coloca el nombre
 se selecciona la carpeta y listo
 
-
 In order to run your application, type:
   $ cd .
   $ flutter run
@@ -22,3 +21,69 @@ ctrol-Shift-P
 flutter launch emulator
 seleccionas el dispositivo android que emulara el proyecto
 
+Widgets
+Sin estado
+StatelessWidget
+
+Con estado
+StatefulWidget
+
+//para descargar paquetes como npm install
+flutter packages get
+
+
+-Stateless
+-Stateful
+-Scaffolds
+-Estilos
+-Botones
+-Manejo de estado básico
+
+en windows
+--------------
+control+windows no me funciona
+control+space para asistente si funciona
+
+Widgets
+------------
+https://flutter.dev/docs/development/ui/widgets/basics
+
+botón flotante
+-------------------
+https://material.io/resources/icons/?style=baseline
+
+centrar botón flotante
+---------------------
+https://fluttermaster.com/working-with-floatingactionbutton-in-flutter/#:~:text=In%20Material%20Design%2C%20FloatingActionButton%2C%20also,bottom%20right%20of%20the%20screen.
+
+
+
+Listviews
+ListTiles
+Listas y map
+Rutas
+Json hacia mapas
+Future Builder
+Lectura de archivos JSON
+Iconos
+Imágenes
+Avatars
+Loadings
+InfiniteScroll
+Pull to refresh
+Cards
+Sliders
+
+---------------
+Recursos estaticos
+------------------
+pubspec.yaml
+
+assets:
+
+ejemplo
+https://flutter.dev/docs/development/ui/assets-and-images
+
+
+pendiente:
+https://stackoverflow.com/questions/45669202/how-to-add-a-listview-to-a-column-in-flutter
