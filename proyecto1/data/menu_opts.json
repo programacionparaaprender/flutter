@@ -15,6 +15,21 @@
             "ruta" : "card",
             "icon" : "folder_open",
             "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icon" : "donut_large",
+            "texto": "Animated Container"
+        },
+        {
+            "ruta" : "inputs",
+            "icon" : "input",
+            "texto": "Inputs"
+        },
+        {
+            "ruta" : "google_maps",
+            "icon" : "google_maps",
+            "texto": "Google maps"
         }
     ]
 }
