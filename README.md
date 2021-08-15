@@ -83,9 +83,11 @@ pubspec.yaml
 
 assets:
 
-ejemplo
+### ejemplo como agregar imagenes
 https://flutter.dev/docs/development/ui/assets-and-images
 
+### ejemplo de geocerca teoria
+https://developers.google.com/location-context/geofencing/
 
 ### trabajar con google maps
 https://codelabs.developers.google.com/codelabs/google-maps-in-flutter#4

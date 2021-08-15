@@ -75,7 +75,7 @@ class _MyAppState extends State<GoogleMapPage> {
         floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
         floatingActionButton: FloatingActionButton(
           backgroundColor: Colors.blue,
-          child: const Icon(Icons.warning),
+          child: Text("Limpiar"),
           onPressed: () {
            
             setState(() {
