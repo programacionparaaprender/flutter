@@ -409,11 +409,28 @@ Future<String> httpGet( String url ) {
 ## 27. Creación de un Android Virtual - Windows
 >- https://docs.flutter.dev/get-started/install/windows/mobile#configure-android-development
 
+### 28. Crear proyectos desde Visual Studio Code - Windows
+>- extensión fluter de vscode: Flutter
 
+### 29. Nota: Si no te interesa la instalación de OSX
 
+### 30. Instalaciones en OSX
+>- https://flutter.dev/
+>- https://git-scm.com/download/mac
 
+### 31. Configurar XCode y lanzar nuestro proyecto en IPhone Simulador
 
+### 32. Android Studio y simulador de Android
+>- https://docs.flutter.dev/get-started/install/macos/mobile-android#configure-android-development
+>- https://developer.android.com/studio?hl=es-419
 
+### 33. Windows y OSX - Correr aplicación en dispositivo físico - Android
+
+### 34. OSX - Correr aplicación directamente en un iPhone
+
+## Sección 4: Introducción a Flutter
+
+### 35. Introducción a la sección
 
 # cuestionario
 >- https://pub.dev/packages/rxdart
